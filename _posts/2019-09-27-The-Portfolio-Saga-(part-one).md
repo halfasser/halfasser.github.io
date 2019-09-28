@@ -30,3 +30,5 @@ My current plan is to figure out how to build a simple portfolio site using a CM
 
 [We're gonna start with this tutorial, and see where we go from there.](https://www.netlifycms.org/docs/start-with-a-template/)
 
+## *[On to part two...](https://halfasser.github.io/blog/2019/09/27/The-Portfolio-Saga-(part-two))*
+
