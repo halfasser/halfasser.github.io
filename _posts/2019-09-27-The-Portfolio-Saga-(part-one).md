@@ -16,6 +16,10 @@ In the past, my portfolio site was hosted on [Adobe Portfolio](https://portfolio
 
 I've never been a template guy. If I use a template, I want to dissect it in order to make it mine. Even then, it's like templates **always** have some weird quirk built into it that pisses me off every time I see my website.
 
+*also...*
+
+Since I'm no longer a student at Auburn, my Adobe CC subscription is going bye-bye, since my account was paid for by the university. I've been wanting to distance myself from the Adobe Hegemony anyway, so that's convenient.
+
 *so...*
 
 ## Plan A*
