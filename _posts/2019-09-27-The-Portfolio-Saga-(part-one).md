@@ -22,7 +22,7 @@ I've never been a template guy. If I use a template, I want to dissect it in ord
 
 **Actually, it's more like Plan C or D, but we're starting fresh, baby.*
 
-My current plan is to figure out how to build a simple portfolio site using a CMS to...manage the content on my site, built with [Jekyll](https://jekyllrb.com/), which would be hosted on [GitHub Pages](https://pages.github.com). That way, I'll have full control over my website, I'll own the code, and it's open source. Beautiful.
+My current plan is to figure out how to build a simple portfolio site using a CMS to...manage the content on my site, built with a static site builder (Hugo, Jekyll, Gatsby), which would be hosted on [GitHub Pages](https://pages.github.com). That way, I'll have full control over my website, I'll own the code, and it's open source. Beautiful.
 
 [We're gonna start with this tutorial, and see where we go from there.](https://www.netlifycms.org/docs/start-with-a-template/)
 
