@@ -25,5 +25,3 @@ I don't necessarily expect myself to know what every line of code does, but as I
 I've completed enough of the Gatsby tutorial to "make my own site," but now it's just a matter of really **understanding** what's going on. That means a whole lot of tinkering (breaking) in order to learn how this beautiful bundle of code makes websites so I can finally make my own and justify all the (arguably unnecessary) work I've put into this endeavor.
 
 It'll all be worth it.
-
-## 
