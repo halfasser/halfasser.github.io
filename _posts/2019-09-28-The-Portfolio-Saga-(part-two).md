@@ -4,6 +4,8 @@ title: "The Portfolio Saga (part two) (we're not using Jekyll anymore)"
 date: 2019-09-27
 ---
 
+[part one](https://halfasser.github.io/blog/2019/09/27/The-Portfolio-Saga-(part-one))
+
 ## An Immediate Detour
 
 We've now turned off of the Jekyll route onto the Gatsby road...an interesting development. 
@@ -41,3 +43,5 @@ We're deployin' on **Netlify.**
 We said **"Hello World!"**
 
 **We're gettin' there.**
+
+## *[Part three: now entering Tutorial Hell...](https://halfasser.github.io/blog/2019/09/27/The-Portfolio-Saga-(part-three))*
